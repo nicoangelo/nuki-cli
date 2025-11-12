@@ -1,4 +1,6 @@
 # Nuki CLI
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnicoangelo%2Fnuki-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnicoangelo%2Fnuki-cli?ref=badge_shield)
+
 
 A versatile command line interface to manage Nuki devices through bluetooth and online services.
 
@@ -39,3 +41,7 @@ If you just want to communicate with a device and want to implement all flow and
 ### bleflows
 
 High-level abstraction that aims to provide use case specific functions, while dealing with all protocol stuff and flows under the hood for you.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnicoangelo%2Fnuki-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnicoangelo%2Fnuki-cli?ref=badge_large)
